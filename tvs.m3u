@@ -3936,7 +3936,7 @@ https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 https://d2rwx6gwduugne.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10010_183ec1c7-4183-4661-803b-3ed282ffb625_LE/in/cmg-wsbtvnow-hls-v3/live.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",ABC 2 Baton Rouge LA (WBRZ-HD)
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/XwntoYd.png",ABC 2 WMAR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XwntoYd.png" group-title="美国Local听力磨耳朵",ABC 2 WMAR
 https://content.uplynk.com/channel/cf4dfec179064664ae326fa10ff4a43f.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",ABC 4 Seattle (KOMO-TV)
 https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
@@ -3944,7 +3944,7 @@ https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
 https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",ABC Las Vegas NV
 https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/HQhdVG1.png",ABC News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HQhdVG1.png" group-title="美国Local听力磨耳朵",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",ABC News Australiaᴴᴰ
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_42.m3u8
@@ -3970,9 +3970,9 @@ https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master.m3u8
 https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",ABC Phoenix AZ
 https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/onnkc5F.png",ActionNewsJax (WJAX-TV)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/onnkc5F.png" group-title="美国Local听力磨耳朵",ActionNewsJax (WJAX-TV)
 https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wjaxtv-hls-v3/live.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/FLKdEzZ.png",AFV Family
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FLKdEzZ.png" group-title="美国Local听力磨耳朵",AFV Family
 http://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",Akaku 53 (Hawaii)
 https://akaku.vod.castus.tv/live/ch1.m3u8
@@ -3980,29 +3980,29 @@ https://akaku.vod.castus.tv/live/ch1.m3u8
 https://akaku.vod.castus.tv/live/ch2.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",Akaku 55 (Hawaii)
 https://akaku.vod.castus.tv/live/ch3.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://alhorreya.org/images/alhorreya-logo_new.png",Alhorreya TV
+#EXTINF:-1 tvg-logo="https://alhorreya.org/images/alhorreya-logo_new.png" group-title="美国Local听力磨耳朵",Alhorreya TV
 https://5d658d7e9f562.streamlock.net/alhorreya.tv/alhorreya.smil/playlist.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/ENtRDds.png",American Horrors
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ENtRDds.png" group-title="美国Local听力磨耳朵",American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/xiaJPqq.png",Beauty IQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xiaJPqq.png" group-title="美国Local听力磨耳朵",Beauty IQ
 https://lsqvc4us-lh.akamaihd.net/i/lsqvc4us_01@802711/master.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",Bek Sports East | HD
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",Bek Sports West | HD
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/GmM19zu.png",BigLife TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmM19zu.png" group-title="美国Local听力磨耳朵",BigLife TV
 http://biglife.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",Blaze TV
 https://theblaze4.akamaized.net/hls/live/699982/theblaze/cm-dvr/master.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/BlazeTVDec2018.png",BlazeTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/BlazeTVDec2018.png" group-title="美国Local听力磨耳朵",BlazeTV
 https://theblaze4.akamaized.net/hls/live//699982/theblaze/cm-dvr/master.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png",Bloomberg TV
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png" group-title="美国Local听力磨耳朵",Bloomberg TV
 https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb3KJ9YQPn_U_FdsCBkOI60nVG_rfwJX6jEDj8RV4DQ3fs1DRiGTgGNA",Bloomberg TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb3KJ9YQPn_U_FdsCBkOI60nVG_rfwJX6jEDj8RV4DQ3fs1DRiGTgGNA", group-title="美国Local听力磨耳朵"Bloomberg TV
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/4UIqtXt.jpg",Bloomberg TV Europe
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4UIqtXt.jpg" group-title="美国Local听力磨耳朵",Bloomberg TV Europe
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/nm3N3aw.png",Bluegrass 4U (Opt-1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nm3N3aw.png" group-title="美国Local听力磨耳朵",Bluegrass 4U (Opt-1)
 https://59d39900ebfb8.streamlock.net/blugrassmusic/blugrassmusic/playlist.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",Boston 25 News (WFXT)
 https://d2dy6pkj44n6e7.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10020_27d61a9c-67b2-4d7c-9486-626a6a071467_LE/in/cmg-wftxtv-hls-v3/live.m3u8
@@ -4016,7 +4016,7 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",CBS New York WCBS
 https://v-ny.theus6tv.tk/hls/2.1/playlist.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/Qu9NAwe.png",CBS News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qu9NAwe.png" group-title="美国Local听力磨耳朵",CBS News
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",CBS News | CBSN Chicago
 https://dai.google.com/linear/hls/event/DWt8iR1YQ-OJQsxczu8KfQ/master.m3u8?iu=/4128/CBS.CHI.OTT
@@ -4068,9 +4068,9 @@ https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wftve2-hls-v3/live.m3u8
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",Charge! USA | HD
 https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/2OnFFoP.png",Cheddar Business
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2OnFFoP.png" group-title="美国Local听力磨耳朵",Cheddar Business
 https://live.chdrstatic.com/cheddar/primary/1.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/xWVT3Dg.png",Cheddar News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xWVT3Dg.png" group-title="美国Local听力磨耳朵",Cheddar News
 https://live.chdrstatic.com/cbn/primary/1.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",Cheddar News USA HDTV
 https://live.chdrstatic.com/cheddar/primary/index.m3u8
@@ -4078,25 +4078,25 @@ https://live.chdrstatic.com/cheddar/primary/index.m3u8
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",Comet | HD
 http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/aL4DvbN.png",Country Music 4U (Opt-1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aL4DvbN.png" group-title="美国Local听力磨耳朵",Country Music 4U (Opt-1)
 https://59d39900ebfb8.streamlock.net/countrymusic4u/countrymusic4u/playlist.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://storage.googleapis.com/www-courttv-uploads/2019/05/4038d65d-courttv_logo_800x800.jpg",Court TV
+#EXTINF:-1 tvg-logo="https://storage.googleapis.com/www-courttv-uploads/2019/05/4038d65d-courttv_logo_800x800.jpg" group-title="美国Local听力磨耳朵",Court TV
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",CRACKLE PlexTV | HD
 https://crackle-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",CRACKLE XumoTV | HD
 http://crackle-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/Wd4xnGt.png",C-SPAN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wd4xnGt.png" group-title="美国Local听力磨耳朵",C-SPAN
 https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/ltcivXp.png",C-SPAN 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ltcivXp.png" group-title="美国Local听力磨耳朵",C-SPAN 2
 https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/cyU21ML.png",C-SPAN 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cyU21ML.png" group-title="美国Local听力磨耳朵",C-SPAN 3
 https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/MLqDkEz.png",Ditty TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MLqDkEz.png" group-title="美国Local听力磨耳朵",Ditty TV
 https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/q2jim9n.png",Dust
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q2jim9n.png" group-title="美国Local听力磨耳朵",Dust
 https://dust.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/ye3ckSd.png",Edge Sport
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ye3ckSd.png" group-title="美国Local听力磨耳朵",Edge Sport
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",EPG | TV25.1 Buzzr
 https://cdn.igocast.com/channel1_hls/channel1_master.m3u8
@@ -4120,13 +4120,13 @@ https://dai.google.com/linear/hls/event/Ybz6nJKqSS2fcQYflsmpRw/master.m3u8
 https://dai.google.com/linear/hls/event/CAU96LSyR_e7MSeK6UTmGQ/master.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",Florida: West Palm Beach (STIRR)
 https://dai.google.com/linear/hls/event/ji4LMCwtRCOw3TrRUKlQMQ/master.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/hV46zMX.png",Folk TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hV46zMX.png" group-title="美国Local听力磨耳朵",Folk TV
 http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",Fox 23 Tulsa OK (KOKI-TV)
 https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-kokitv-hls-v3/live.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/Z5SATrd.png",Fox News Radio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z5SATrd.png" group-title="美国Local听力磨耳朵",Fox News Radio
 http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/X491SzR.gif",Fox Sports pluto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X491SzR.gif" group-title="美国Local听力磨耳朵”,Fox Sports pluto
 https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 group-title="美国Local听力磨耳朵",Georgia: Albany (STIRR)
 https://dai.google.com/linear/hls/event/fD3VBzTxRXGz-v7HV0vryQ/master.m3u8
@@ -4136,7 +4136,7 @@ https://dai.google.com/linear/hls/event/PPMxI7GZSRG6Kgkp2gSF1g/master.m3u8
 https://v-px.theus6tv.tk/hls/13.3/playlist.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",Groovy TV | HD
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://vignette.wikia.nocookie.net/central/images/4/44/HBO_Logo.png",HBO (Asia)
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/central/images/4/44/HBO_Logo.png" group-title="美国Local听力磨耳朵",HBO (Asia)
 http://218.202.220.2:5000/nn_live.ts?id=HBO
 #EXTINF:-1 group-title="美国Local听力磨耳朵",Hsn [Geo-blocked]
 https://hsn.samsung.wurl.com/manifest/playlist.m3u8
@@ -4156,11 +4156,11 @@ https://dai.google.com/linear/hls/event/knBsxnquSYqFXTP_UzcGgw/master.m3u8
 https://dai.google.com/linear/hls/event/bjWdbDzwTMOMd8Wmxl4rwg/master.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",Indiana: South Bend
 https://dai.google.com/linear/hls/event/VGpvNIxIQRO7PXYRy7P0qw/master.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/E6Xlt0T.png",InfoWars - The Alex Jones Show
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E6Xlt0T.png" group-title="美国Local听力磨耳朵",InfoWars - The Alex Jones Show
 https://freespeech.akamaized.net/hls/live/2016712/live2/playlist.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/E6Xlt0T.png",InfoWars - The David Knight Show
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E6Xlt0T.png" group-title="美国Local听力磨耳朵",InfoWars - The David Knight Show
 https://freespeech.akamaized.net/hls/live/2016873/live3/playlist.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/E6Xlt0T.png",InfoWars - War Room With Owen Shroyer
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E6Xlt0T.png" group-title="美国Local听力磨耳朵",InfoWars - War Room With Owen Shroyer
 https://freespeech.akamaized.net/hls/live/2016873/live4/playlist.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",Ion Plus
 https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
@@ -4168,15 +4168,15 @@ https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
 https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",iON TV (576p)
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iontvuk.stream/playlist.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/1HJraea.png",Jewelry Television
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1HJraea.png" group-title="美国Local听力磨耳朵",Jewelry Television
 http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",KBSV/AssyriaSat [Not 24/7]
 http://66.242.170.53/hls/live/temp/index.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",KCRT-TV 28 Richmond CA (KCRT) (360p)
 http://granicusliveus3-a.akamaihd.net/richmond/G0034_002/HasBahCa.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://kesq.b-cdn.net/2020/03/nc3xsm.png",KESQ Livestream Alert
+#EXTINF:-1 tvg-logo="https://kesq.b-cdn.net/2020/03/nc3xsm.png" group-title="美国Local听力磨耳朵",KESQ Livestream Alert
 https://content.uplynk.com/channel/edcc7b94bf074eaf8df9fc6454b0086b.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/WWtFjTd.jpg",kltv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WWtFjTd.jpg" group-title="美国Local听力磨耳朵",kltv
 https://dai2-playlistserver.aws.syncbak.com/playlist/18439558/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIxODQzOTU1OCIsIm1kNSI6IjdjNmM5Yjk5YmMxNjUyMmVhM2E5Y2Q4ZmRiMmUzOThjIiwiaWF0IjoxNTk0NTgzNzY1LCJpc3MiOiJTeW5jYmFrIChURykifQ.70BwybOv28vKpy1DlhpYkN8Y18r4ugp-1KXpuVV1mWs
 #EXTINF:-1 group-title="美国Local听力磨耳朵",KTLA 5 Los Angeles CA (144p)
 https://content.uplynk.com/channel/6cbf2d32a5384dc1b787539b1102433c.m3u8
@@ -4204,15 +4204,15 @@ https://dai.google.com/linear/hls/event/do9arGJBTD--KARQ056kpw/master.m3u8
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mnews24.stream/playlist.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",Missouri: Columbia
 https://dai.google.com/linear/hls/event/nkNBP1eHT_GQwS7oYq23zw/master.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/68XjJ7z.png",Mobcrush (Opt-1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/68XjJ7z.png" group-title="美国Local听力磨耳朵",Mobcrush (Opt-1)
 https://ott.mobcrush.com/hls/0/ott.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",Montana: Missoula (STIRR)
 https://dai.google.com/linear/hls/event/ARX9M-X8RieADdAEYPXNuA/master.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",Motorvisison TV | HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nasatv-269x151.jpg",NASA TV
+#EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nasatv-269x151.jpg" group-title="美国Local听力磨耳朵",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nasatv-269x151.jpg",NASA TV 2
+#EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nasatv-269x151.jpg" group-title="美国Local听力磨耳朵",NASA TV 2
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",NBC 26 Green Bay WI (WGBA)
 https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
@@ -4220,7 +4220,7 @@ https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
 https://v-pi.theus6tv.tk/hls/10.1/playlist.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",NBC Pittsburgh
 https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wpxitv-hls-v3/live.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/dTfi25n.png",NBC WTMJ4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dTfi25n.png" group-title="美国Local听力磨耳朵",NBC WTMJ4
 https://content.uplynk.com/channel/50bb38f57f0547319060274f3b94db4e.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",Nebraska: Hastings (STIRR)
 https://dai.google.com/linear/hls/event/xtKyBDIFSZa6cT4Of9yaGQ/master.m3u8
@@ -4344,9 +4344,9 @@ https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 https://content.uplynk.com/channel/0123b306191a4307a31b9fb573213fd3.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",WPVI-TV News
 https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/mfJVjpd.jpg",WSVN Fox 7 Miami
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mfJVjpd.jpg" group-title="美国Local听力磨耳朵"WSVN Fox 7 Miami
 https://bcsecurelivehls-i.akamaihd.net/hls/live/598043/4368278029001_1/onair/master.m3u8
-#EXTINF:-1 group-title="美国Local听力磨耳朵" tvg-logo="https://i.imgur.com/AOOwMCS.png",WTGS FOX 28 Savannah
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AOOwMCS.png" group-title="美国Local听力磨耳朵",WTGS FOX 28 Savannah
 http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
 #EXTINF:-1 group-title="美国Local听力磨耳朵",WTGS FOX 28 Savannah GA
 https://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
@@ -4359,7 +4359,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73
 
 
 
-#EXTINF:-1 group-title="英语儿童频道" tvg-id="tv.101002210222" tvg-logo="https://i.mjh.nz/.images/tv.abckids2.png",ABC KIDS
+#EXTINF:-1 tvg-id="tv.101002210222" tvg-logo="https://i.mjh.nz/.images/tv.abckids2.png" group-title="英语儿童频道",ABC KIDS
 https://c.mjh.nz/101002210222/
 #EXTINF:-1 tvg-id="708" tvg-name="BabyTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BabyTV.png" group-title="英语儿童频道",Baby TV
 https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8
