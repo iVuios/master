@@ -328,19 +328,19 @@ http://112.25.47.24/gitv_live/G_LAOGUSHI/G_LAOGUSHI.m3u8
 #EXTINF:-1 tvg-id="6564" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/cctvnvxing.png" group-title="高码央视卫视",央视时尚
 http://112.25.47.24/gitv_live/G_NVXINGSS/G_NVXINGSS.m3u8
 
-#EXTINF:-1  tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/liaoning.png" group-title="辽宁卫视",辽宁北方
+#EXTINF:-1  tvg-id="" tvg-name="辽宁卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/liaoning.png" group-title="辽宁卫视",辽宁北方
 http://39.135.129.172/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226755/index.m3u8
-#EXTINF:-1  tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/liaoning.png" group-title="辽宁卫视",辽宁都市
+#EXTINF:-1  tvg-id="" tvg-name="辽宁卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/liaoning.png" group-title="辽宁卫视",辽宁都市
 http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226760/index.m3u8
-#EXTINF:-1  tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/liaoning.png" group-title="E辽宁卫视",辽宁公共
+#EXTINF:-1  tvg-id="" tvg-name="辽宁卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/liaoning.png" group-title="E辽宁卫视",辽宁公共
 http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226766/index.m3u8
-#EXTINF:-1  tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/liaoning.png" group-title="辽宁卫视的",辽宁经济
+#EXTINF:-1  tvg-id="" tvg-name="辽宁卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/liaoning.png" group-title="辽宁卫视的",辽宁经济
 http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226735/index.m3u8
-#EXTINF:-1  tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/liaoning.png" group-title="辽宁卫视",辽宁生活
+#EXTINF:-1  tvg-id="" tvg-name="辽宁卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/liaoning.png" group-title="辽宁卫视",辽宁生活
 http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226761/index.m3u8
-#EXTINF:-1  tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/liaoning.png" group-title="辽宁卫视",辽宁体育
+#EXTINF:-1  tvg-id="" tvg-name="辽宁卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/liaoning.png" group-title="辽宁卫视",辽宁体育
 http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226764/index.m3u8
-#EXTINF:-1  tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/liaoning.png" group-title="辽宁卫视",辽宁影视剧
+#EXTINF:-1  tvg-id="" tvg-name="辽宁卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/liaoning.png" group-title="辽宁卫视",辽宁影视剧
 http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226738/index.m3u8
 
 #EXTINF:-1  tvg-id="5" tvg-name="CCTV5" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5.png" group-title="体育-咪咕直播",CCTV-5体育
