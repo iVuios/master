@@ -1938,3 +1938,18 @@ https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240522651855.mp4
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240532435115.mp4
 #EXTINF:-1 tvg-name="女团" tvg-logo="https://s1.ax1x.com/2022/03/08/b2i66x.jpg" group-title="VOD测试",女团 98
 https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240532671620.mp4
+
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/liaoning.png" group-title="辽宁卫视",辽宁北方
+http://39.135.129.172/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226755/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/liaoning.png" group-title="辽宁卫视",辽宁都市
+http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226760/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/liaoning.png" group-title="E辽宁卫视",辽宁公共
+http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226766/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/liaoning.png" group-title="辽宁卫视的",辽宁经济
+http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226735/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/liaoning.png" group-title="辽宁卫视",辽宁生活
+http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226761/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/liaoning.png" group-title="辽宁卫视",辽宁体育
+http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226764/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/liaoning.png" group-title="辽宁卫视",辽宁影视剧
+http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226738/index.m3u8
