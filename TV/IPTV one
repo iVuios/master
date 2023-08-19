@@ -43,26 +43,7 @@ http://txycetvbl.centv.cn/cetv2/2020tsytk.m3u8
 http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
 #EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" group-title="央视",CETV-04
 http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
-#EXTINF:-1 group-title="数字",Clarity4K
-https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8 
-#EXTINF:-1 group-title="数字",L' Nature
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8 
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" group-title="数字",凤凰香港
-http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" group-title="数字",凤凰中文
-http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" group-title="数字",凤凰资讯
-http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
-#EXTINF:-1 tvg-id="NHK" tvg-name="NHK" group-title="数字",NHK世界
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" group-title="数字",CNA新闻
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="7183"tvg-name="aljazeeraEnglish" group-title="数字",半岛新闻
-http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" group-title="数字",中国环球
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="CGTNDocumentary" tvg-name="CGTNDocumentary" group-title="数字",环球纪录
-http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
+
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" group-title="卫视",北京卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw2687876293_-1703018199/ott.mobaibox.com/PLTV/3/224/3221227508/index.m3u8?icpid=3&RTS=1668597482&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" group-title="卫视",东方卫视
@@ -119,6 +100,23 @@ http://[2409:8087:2001:20:2800:0:df6e:eb1b]/wh7f454c46tw1221605145_-1738716276/o
 http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8?icpid=3&RTS=1668604377&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" group-title="卫视",云南卫视
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001223/index.m3u8?
+
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" group-title="数字",凤凰香港
+http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" group-title="数字",凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" group-title="数字",凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
+#EXTINF:-1 tvg-id="NHK" tvg-name="NHK" group-title="数字",NHK世界
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" group-title="数字",CNA新闻
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="7183"tvg-name="aljazeeraEnglish" group-title="数字",半岛新闻
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" group-title="数字",中国环球
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="CGTNDocumentary" tvg-name="CGTNDocumentary" group-title="数字",环球纪录
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" group-title="数字",纪实科教
 http://[2409:8087:2001:20:2800:0:df6e:eb0e]/wh7f454c46tw1542052607_1430934483/ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8?icpid=3&RTS=1669704438&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" group-title="数字",卡酷少儿
@@ -163,6 +161,19 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002264/index.m3
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001230/index.m3u8?
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" group-title="数字",金鹰卡通
 http://live.aptvapp.com/sxg.php?id=jykt_2000
+
+#EXTINF:-1 group-title="4K8K/16M(IPV6)",Bloomberg TV+ 4K
+https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="4K8K/16M(IPV6)",Clarity 4K
+https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="4K8K/16M(IPV6)",Love Nrture 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="4K8K/16M(IPV6)",Fashion 4K
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="4K8K/16M(IPV6)",MUZZIK ZZ4000 4K
+http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
+#EXTINF:-1 group-title="4K8K/16M(IPV6)",Loupe 4K
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 group-title="4K8K/16M(IPV6)",BTV纪实科教 8K
 http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
 #EXTINF:-1 group-title="4K8K/16M(IPV6)",CCTV16 4K 「IPV6」
@@ -195,18 +206,6 @@ http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 http://111.20.105.192:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 #EXTINF:-1 group-title="4K8K/16M(IPV6)",斗鱼4k
 http://epg.112114.xyz/douyu/9249162
-#EXTINF:-1 group-title="4K8K/16M(IPV6)",Bloomberg TV+ 4K
-https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="4K8K/16M(IPV6)",Clarity 4K
-https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="4K8K/16M(IPV6)",Love Nrture 4K
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="4K8K/16M(IPV6)",Fashion 4K
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="4K8K/16M(IPV6)",MUZZIK ZZ4000 4K
-http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
-#EXTINF:-1 group-title="4K8K/16M(IPV6)",Loupe 4K
-https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 tvg-id="CCTV4K超高清" tvg-name="CCTV4K超清" group-title="数字",CCTV-4K
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 tvg-name="4K60PSDR-H264-AAC测试" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/tg.jpg" group-title="4K8K/16M(IPV6)",4K60PSDR-H264-AAC测试
@@ -249,10 +248,6 @@ http://nas.jdshipin.com:8801/4kys.php
 http://159.75.85.63:35455/huya/wzgxs1
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1056/57/5a06880da605e4a2d4811266a26727_180_135.jpg?1596018478&465496" group-title="4K8K/16M(IPV6)",虎牙魔兽世界4K
 http://159.75.85.63:35455/huya/shangdi
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1033/7b/e6ce93da5ea071e47b179f3dad5431_180_135.jpg?1614151023&465495" group-title="4K8K/16M(IPV6)",虎牙战地五4K
-http://159.75.85.63:35455/huya/28260962
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201612/19/22/ffc06ea36674503b942c5537874e8a4e_big.jpg" group-title="4K8K/16M(IPV6)",斗鱼4K激战2
-http://159.75.85.63:35455/douyu/3916618
 #EXTINF:-1 tvg-name="斗鱼4K电影" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202011/9deb93fa33fb4d9eb2a9bc30a465404c_big.jpg" group-title="4K8K/16M(IPV6)",斗鱼4K电影
 http://159.75.85.63:35455/douyu/9249162
 #EXTINF:-1 tvg-id="江苏8K测试" tvg-name="江苏8K测试" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/js8k.png" group-title="4K8K/16M(IPV6)",江苏8K测试
