@@ -289,14 +289,10 @@ http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw1782571424_-1576923679/o
 https://justsometime.gztv.com/sec/shenghuos.m3u8
 #EXTINF:-1,tvg-id="绚影4K" tvg-name="绚影4K" tvg-logo="https://epg.112114.xyz/logo/绚影4K.png" group-title="4K8K",绚影4K
 http://222.212.90.192:18000/udp/239.93.42.33:5140
-#EXTINF:-1,tvg-id="欢笑剧场4K" tvg-name="欢笑剧场4K" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场4K.png" group-title="4K8K",欢笑剧场4K
-http://8.210.12.190:666/moss/0/bestv.php?id=hxjc4k/15000000
 #EXTINF:-1,tvg-id="4K超高清" tvg-name="4K超高清" tvg-logo="https://epg.112114.xyz/logo/4K超高清.png" group-title="4K8K",4K超高清
 http://36.99.220.147:5678/sxg.php
 #EXTINF:-1,tvg-id="中录动漫4K" tvg-name="中录动漫4K" tvg-logo="https://epg.112114.xyz/logo/中录动漫4K.png" group-title="4K8K",中录动漫4K
 http://gyj12315.top:4022/udp/239.93.27.188:5140
-#EXTINF:-1,tvg-id="4K超高清电影" tvg-name="4K超高清电影" tvg-logo="https://epg.112114.xyz/logo/4K超高清电影.png" group-title="4K8K",4K超高清电影
-http://www.51romzj.fun/moss/sxg.php?id=emdy4k_8000
 #EXTINF:-1,tvg-id="4K乐享超清" tvg-name="4K乐享超清" tvg-logo="https://epg.112114.xyz/logo/4K乐享超清.png" group-title="4K8K",4K乐享超清
 http://www.hzz.pub:8888/udp/239.93.0.43:5140
 #EXTINF:-1,tvg-id="津津阅读4K" tvg-name="津津阅读4K" tvg-logo="https://epg.112114.xyz/logo/津津阅读4K.png" group-title="4K8K",津津阅读4K
