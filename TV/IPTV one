@@ -208,10 +208,6 @@ http://111.20.105.192:6610/000000001000/6000000003000004748/index.m3u8?channel-i
 http://epg.112114.xyz/douyu/9249162
 #EXTINF:-1 tvg-id="CCTV4K超高清" tvg-name="CCTV4K超清" group-title="数字",CCTV-4K
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-#EXTINF:-1 tvg-name="4K60PSDR-H264-AAC测试" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/tg.jpg" group-title="4K8K/16M(IPV6)",4K60PSDR-H264-AAC测试
-http://159.75.85.63:5680/d/ad/h264/playad.m3u8
-#EXTINF:-1 tvg-name="4K60PHLG-HEVC-EAC3测试" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/tg.jpg" group-title="4K8K/16M(IPV6)",4K60PHLG-HEVC-EAC3测试
-http://159.75.85.63:5680/d/ad/playad.m3u8
 #EXTINF:-1 tvg-name="BTV纪实科教-8KSDR源" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/6b43dea36f823761380072013ab25d1594f58aad.jpg" group-title="4K8K/16M(IPV6)",BTV纪实科教-8KSDR源
 http://159.75.85.63:6798
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/香港8K.png" tvg-id="香港8K" tvg-name="香港8K" group-title="4K8K/16M(IPV6)",香港8K
