@@ -1,3 +1,8 @@
+#!name=Surge Pro
+#!desc=显示Surge的启动时间
+#!category=Vincent的模块
+
+
 [Panel]
 # macOS不生效
 # > X_Surge-Panel
